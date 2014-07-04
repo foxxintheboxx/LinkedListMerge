@@ -1,4 +1,4 @@
 LinkedListMerge
 ===============
 
-Interview Qustion: Make MergeSort with LinkedLists
+Interview Question: Make MergeSort with LinkedLists
